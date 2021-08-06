@@ -4,33 +4,33 @@
   <div>I'm a junior <b>Web FrontEnd Developer</b> 👨‍💻</div>
   <h3>🛠️ Tech Stack 🛠️</h3>
   <div>🤟</div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=50 height=50 alt="JavaScript" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width=50 height=50 alt="TypeScript" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=50 height=50 alt="React" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width=50 height=50 alt="Vue.js" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=50 height=50 alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width=50 height=50 alt="TypeScript" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=50 height=50 alt="React" /></a>
+  <a href="https://vuejs.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width=50 height=50 alt="Vue.js" /></a>
   <details>
     <summary>See More</summary>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width=40 height=40 alt="HTML5" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width=40 height=40 alt="CSS3" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" width=40 height=40 alt="Babel" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=40 height=40 alt="git" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width=40 height=40 alt="Node.js" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width=40 height=40 alt="npm" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width=40 height=40 alt="Redux" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width=40 height=40 alt="Sass" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width=40 height=40 alt="Visual Studio Code" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" width=40 height=40 alt="Webpack" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" width=40 height=40 alt="yarn" />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width=40 height=40 alt="HTML5" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width=40 height=40 alt="CSS3" /></a>
+    <a href="https://babeljs.io/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" width=40 height=40 alt="Babel" /></a>
+    <a href="https://git-scm.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=40 height=40 alt="git" /></a>
+    <a href="https://nodejs.org/en/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width=40 height=40 alt="Node.js" /></a>
+    <a href="https://www.npmjs.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width=40 height=40 alt="npm" /></a>
+    <a href="https://redux.js.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width=40 height=40 alt="Redux" /></a>
+    <a href="https://sass-lang.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width=40 height=40 alt="Sass" /></a>
+    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width=40 height=40 alt="Visual Studio Code" /></a>
+    <a href="https://webpack.js.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" width=40 height=40 alt="Webpack" /></a>
+    <a href="https://yarnpkg.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" width=40 height=40 alt="yarn" /></a>
     <br>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width=30 height=30 alt="C++" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width=30 height=30 alt="Java" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width=30 height=30 alt="MySQL" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width=30 height=30 alt="Spring" />
-    <img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb65l5e%2FbtqCWK7P3UN%2FVt0mhhjZRMt0BtUUtT4KS1%2Fimg.png" width=30 height=30 alt="Spring Boot" />
+    <a href="https://isocpp.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width=30 height=30 alt="C++" /></a>
+    <a href="https://www.java.com/en/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width=30 height=30 alt="Java" /></a>
+    <a href="https://www.mysql.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width=30 height=30 alt="MySQL" /></a>
+    <a href="https://spring.io/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width=30 height=30 alt="Spring" /></a>
+    <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb65l5e%2FbtqCWK7P3UN%2FVt0mhhjZRMt0BtUUtT4KS1%2Fimg.png" width=30 height=30 alt="Spring Boot" /></a>
     <br>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" width=30 height=30 alt="Adobe Photoshop" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" width=30 height=30 alt="Adobe Premiere Pro" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" width=30 height=30 alt="Adobe After Effects" />
+    <a href="https://www.photoshop.com/en" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" width=30 height=30 alt="Adobe Photoshop" /></a>
+    <a href="https://www.adobe.com/kr/products/premiere.html" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" width=30 height=30 alt="Adobe Premiere Pro" /></a>
+    <a href="https://www.adobe.com/kr/products/aftereffects.html" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" width=30 height=30 alt="Adobe After Effects" /></a>
   </details>
   <h3>History</h3>
   <div align="left">
