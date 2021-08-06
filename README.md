@@ -34,11 +34,11 @@
   </details>
   <h3>History</h3>
   <div align="left">
-  <div>👨‍💻 <b>Doing</b> Web FrontEnd Developer Internship at <a href="https://www.fasoo.com/">Fasoo</a> (2021.07 ~ 2022.01) </div><br>
-  <div>📝 <b>Studied</b> Web Development at <a href="https://ssafy.com">Samsung Software Academy For Youth</a> (2021.01 ~ 2021.07) </div>
+  <div>👨‍💻 <b>Doing</b> Web FrontEnd Developer Internship at <a href="https://www.fasoo.com/" target="_blank">Fasoo</a> (2021.07 ~ 2022.01) </div><br>
+  <div>📝 <b>Studied</b> Web Development at <a href="https://ssafy.com" target="_blank">Samsung Software Academy For Youth</a> (2021.01 ~ 2021.07) </div>
   <div>🎓 <b>Graduated</b> from Hanyang University ERICA (2021.02) </div>
-  <div>👨‍💻 <b>Completed</b> Web Developer Internship at <a href="https://www.nts-corp.com/">N Tech Service</a> (2020.10 ~ 2020.12) </div>
+  <div>👨‍💻 <b>Completed</b> Web Developer Internship at <a href="https://www.nts-corp.com/" target="_blank">N Tech Service</a> (2020.10 ~ 2020.12) </div>
     </div>
   <br>
-  <div><a href="mailto:crj0901@gmail.com"><img src="https://img.shields.io/badge/Gmail-E34133?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/></a>&nbsp;<a href="https://raejoonee.tistory.com/"><img src="https://img.shields.io/badge/tistory-E45012?style=flat-square" alt="Gmail"/></a>&nbsp;<a href="https://velog.io/@raejoonee"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square" alt="Gmail"/></a>&nbsp;<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=wadong02"></div>
+  <div><a href="mailto:crj0901@gmail.com"><img src="https://img.shields.io/badge/Gmail-E34133?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/></a>&nbsp;<a href="https://raejoonee.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-E45012?style=flat-square" alt="Gmail"/></a>&nbsp;<a href="https://velog.io/@raejoonee" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square" alt="Gmail"/></a>&nbsp;<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=wadong02"></div>
 </div>
