@@ -14,6 +14,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width=40 height=40 alt="CSS3" /></a>
     <a href="https://babeljs.io/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" width=40 height=40 alt="Babel" /></a>
     <a href="https://git-scm.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=40 height=40 alt="git" /></a>
+    <a href="https://graphql.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width=40 height=40 alt="GraphQL" /></a>
     <a href="https://nodejs.org/en/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width=40 height=40 alt="Node.js" /></a>
     <a href="https://www.npmjs.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width=40 height=40 alt="npm" /></a>
     <a href="https://redux.js.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width=40 height=40 alt="Redux" /></a>
@@ -25,6 +26,8 @@
     <a href="https://isocpp.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width=30 height=30 alt="C++" /></a>
     <a href="https://www.java.com/en/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width=30 height=30 alt="Java" /></a>
     <a href="https://www.mysql.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width=30 height=30 alt="MySQL" /></a>
+    <a href="https://www.mongodb.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width=30 height=30 alt="MongoDB" /></a>
+    <a href=https://nestjs.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" width=30 height=30 alt="NestJS" /></a>
     <a href="https://spring.io/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width=30 height=30 alt="Spring" /></a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb65l5e%2FbtqCWK7P3UN%2FVt0mhhjZRMt0BtUUtT4KS1%2Fimg.png" width=30 height=30 alt="Spring Boot" /></a>
     <br>
