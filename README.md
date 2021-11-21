@@ -23,7 +23,6 @@
     <a href="https://webpack.js.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" width=40 height=40 alt="Webpack" /></a>
     <a href="https://yarnpkg.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" width=40 height=40 alt="yarn" /></a>
     <br>
-    <a href="https://isocpp.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width=30 height=30 alt="C++" /></a>
     <a href="https://www.java.com/en/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width=30 height=30 alt="Java" /></a>
     <a href="https://www.mysql.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width=30 height=30 alt="MySQL" /></a>
     <a href="https://www.mongodb.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width=30 height=30 alt="MongoDB" /></a>
