@@ -7,7 +7,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=50 height=50 alt="JavaScript" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width=50 height=50 alt="TypeScript" /></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=50 height=50 alt="React" /></a>
-  <a href="https://vuejs.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width=50 height=50 alt="Vue.js" /></a>
   <details>
     <summary>See More</summary>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width=40 height=40 alt="HTML5" /></a>
@@ -20,6 +19,7 @@
     <a href="https://redux.js.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width=40 height=40 alt="Redux" /></a>
     <a href="https://sass-lang.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width=40 height=40 alt="Sass" /></a>
     <a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width=40 height=40 alt="Visual Studio Code" /></a>
+    <a href="https://vuejs.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width=40 height=40 alt="Vue.js" /></a>
     <a href="https://webpack.js.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" width=40 height=40 alt="Webpack" /></a>
     <a href="https://yarnpkg.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" width=40 height=40 alt="yarn" /></a>
     <br>
