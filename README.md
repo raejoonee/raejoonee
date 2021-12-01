@@ -41,7 +41,6 @@
   <div>👨‍💻 <b>Completed</b> Web FrontEnd Developer Internship at <a href="https://www.navercorp.com/" target="_blank">NAVER</a> Biz CIC (2021.09 ~ 2021.10) </div>
   <div>👨‍💻 <b>Completed</b> Web FrontEnd Developer Internship at <a href="https://www.fasoo.com/" target="_blank">Fasoo</a> (2021.07 ~ 2021.09) </div>
   <div>📝 <b>Studied</b> Web Development at <a href="https://ssafy.com" target="_blank">Samsung Software Academy For Youth</a> (2021.01 ~ 2021.07) </div>
-  <div>🎓 <b>Graduated</b> from Hanyang University ERICA (2021.02) </div>
   <div>👨‍💻 <b>Completed</b> Web Developer Internship at <a href="https://www.nts-corp.com/" target="_blank">N Tech Service</a> (2020.10 ~ 2020.12) </div>
     </div>
   <br>
