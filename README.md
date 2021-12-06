@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7DF1E&height=225&section=header&text=JavaScript&fontSize=70&desc=%EB%A5%BC%20%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94%20FrontEnd%20%EA%B0%9C%EB%B0%9C%EC%9E%90&animation=fadeIn&fontAlign=75.5&fontAlignY=36&&descAlign=80&descAlignY=57" alt="JavaScript Lover" />
   <h1>Hi There 👋</h1>
   <div>I'm a junior <b>Web FrontEnd Developer</b> 👨‍💻</div>
   <h3>🛠️ Tech Stack 🛠️</h3>
