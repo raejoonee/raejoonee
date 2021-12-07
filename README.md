@@ -33,14 +33,18 @@
     <a href="https://www.adobe.com/kr/products/premiere.html" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" width=30 height=30 alt="Adobe Premiere Pro" /></a>
     <a href="https://www.adobe.com/kr/products/aftereffects.html" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" width=30 height=30 alt="Adobe After Effects" /></a>
   </details>
-  <h3>History</h3>
+  
   <div align="left">
-  <div>👨‍💻 <b>Working</b> as a Web FrontEnd Developer for <a href="https://www.navercorp.com/" target="_blank">NAVER</a> Biz CIC (2021.12 ~ ) </div>
-  <div>👨‍💻 <b>Working</b> as a Web FrontEnd Developer for <a href="https://github.com/YAPP-19th" target="_blank">YAPP 19th</a> (2021.08 ~ 2022.01) </div><br>
-  <div>👨‍💻 <b>Completed</b> Web FrontEnd Developer Internship at <a href="https://www.navercorp.com/" target="_blank">NAVER</a> Biz CIC (2021.09 ~ 2021.10) </div>
-  <div>👨‍💻 <b>Completed</b> Web FrontEnd Developer Internship at <a href="https://www.fasoo.com/" target="_blank">Fasoo</a> (2021.07 ~ 2021.09) </div>
-  <div>📝 <b>Studied</b> Web Development at <a href="https://ssafy.com" target="_blank">Samsung Software Academy For Youth</a> (2021.01 ~ 2021.07) </div>
-  <div>👨‍💻 <b>Completed</b> Web Developer Internship at <a href="https://www.nts-corp.com/" target="_blank">N Tech Service</a> (2020.10 ~ 2020.12) </div>
+    <h2>History</h2>
+      <h3>Career</h3>
+        <strong><a href="https://www.navercorp.com/" target="_blank">NAVER</a></strong> 네이버 <sub>/ Biz CIC Ad Service Dev (2021.12 ~ )</sub>
+      <h3>Internship</h3>
+        <strong><a href="https://www.navercorp.com/" target="_blank">NAVER</a></strong> 네이버 <sub>/ Web Dev Intern (2021.09 ~ 2021.10)</sub><br>
+        <strong><a href="https://www.fasoo.com/" target="_blank">FASOO</a></strong> 파수 <sub>/ Web FE Intern (2021.07 ~ 2021.09)</sub><br>
+        <strong><a href="https://www.nts-corp.com/" target="_blank">N Tech Service</a></strong> 엔테크서비스 <sub>/ Web Dev Intern (2020.10 ~ 2020.12)</sub>
+      <h3>Experiences</h3>
+        <strong><a href="https://github.com/YAPP-19th/" target="_blank">YAPP 19th</a></strong> <sub>/ Web FE (2021.08 ~ 2022.01)</sub><br>
+        <strong><a href="https://ssafy.com/" target="_blank">Samsung Software Academy For Youth</a></strong> <sub>/ Web FE Intern (2021.01 ~ 2021.07)</sub>
     </div>
   <br>
   <div><a href="mailto:crj0901@gmail.com"><img src="https://img.shields.io/badge/Gmail-E34133?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/></a>&nbsp;<a href="https://raejoonee.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-E45012?style=flat-square" alt="tistory"/></a>&nbsp;<a href="https://velog.io/@raejoonee" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square" alt="velog"/></a>&nbsp;<a href="https://solved.ac/profile/wadong02" target="_blank"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=wadong02" alt="solved.ac" /></a>&nbsp;<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fraejoonee%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="daily hits" /></div>
