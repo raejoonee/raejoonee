@@ -38,7 +38,7 @@
     <h2>History</h2>
       <h3>Career</h3>
         <strong><a href="https://www.navercorp.com/" target="_blank">NAVER</a></strong> 네이버 <sub>/ 플레이스 프로덕트 플레이스여행플랫폼 (2024.04 ~ )</sub><br>
-        <strong><a href="https://www.navercorp.com/" target="_blank">NAVER</a></strong> 네이버 <sub>/ Biz CIC Ad Service Dev2 (2021.12 ~ )</sub>
+        <strong><a href="https://www.navercorp.com/" target="_blank">NAVER</a></strong> 네이버 <sub>/ Biz CIC Ad Service Dev2 (2021.12 ~ 2024.03)</sub>
       <h3>Internship</h3>
         <strong><a href="https://www.navercorp.com/" target="_blank">NAVER</a></strong> 네이버 <sub>/ Web Dev Intern (2021.09 ~ 2021.10)</sub><br>
         <strong><a href="https://www.fasoo.com/" target="_blank">FASOO</a></strong> 파수 <sub>/ Web FE Intern (2021.07 ~ 2021.09)</sub><br>
